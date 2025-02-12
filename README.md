@@ -15,4 +15,4 @@ Todos:
   - trufflesecurity/trufflehog: Checking secrets in code. https://github.com/trufflesecurity/trufflehog?tab=readme-ov-file#octocat-trufflehog-github-action
   - lint, test, build
   - [] e2e test with dependencies
-- [] CD:
+- [ ] CD:
